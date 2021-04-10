@@ -19,9 +19,8 @@ This project illustrates the simplified Integrate and Fire neuron model, which d
 
 
 
-### Perceptron
-
-
+### [Perceptron](https://github.com/Ilsa07/Perceptron)
+This project illustrates the capeabilities of the perceptron, which can be used for binary classification. A perceptron is only capeable of learning linearly separable datasets, which is illustrated in the project.
 
 
 ### [Temporal Difference Learning](https://github.com/Ilsa07/TD-Learning-Conditioning)
