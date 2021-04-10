@@ -3,7 +3,7 @@
 This site summarizes numerous small projects which illustrate basic concepts in computational neuroscience. The projects start from the basic Integrate and Fire Model used to model neurons and build up to the Perceptron for binary classification and Temporal Difference Learning to illustrate classical conditioning. 
 
 
-### Integrate and Fire Model
+### [Integrate and Fire Model](https://github.com/Ilsa07/Integrate-and-Fire-Model)
 
 
 
