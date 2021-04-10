@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Computational Neuroscience Basics
 
-You can use the [editor on GitHub](https://github.com/Ilsa07/Computational-Nuroscience/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This site summarizes numerous small projects which illustrate basic concepts in computational neuroscience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
