@@ -15,8 +15,8 @@ This project illustrates the simplified Integrate and Fire neuron model, which d
 
 
 
-### Spike Timing Dependent Plasticity
-
+### [Spike Timing Dependent Plasticity (STDP)](https://github.com/Ilsa07/Spike-Timing-Dependent-Plasticity)
+This project simulates STDP, which is a model of how weights between neurons change depending on the timing of the pre and post-synaptic spikes. In this modedl, if a pre-synaptic spike occurs before a post-synaptic one the weight that connects the two increases, and if it is the other way around it decreases. STDP explains how the brain can predict sequences and how we can respond to earlier stimulus.
 
 
 ### [Perceptron](https://github.com/Ilsa07/Perceptron)
