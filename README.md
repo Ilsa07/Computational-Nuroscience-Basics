@@ -24,11 +24,8 @@ This project illustrates the simplified Integrate and Fire neuron model, which d
 
 
 
-### Temporal Difference Learning
-
-
-
-
+### [Temporal Difference Learning](https://github.com/Ilsa07/TD-Learning-Conditioning)
+This project recreates the famous Pavlov's Dog Experiment via Temporal Difference Learning, which is a classical conditioning example. In each trial a stimulus in the form of a bell is presented at t=5 seconds and a reward, corresponding to some tasty food, is given at the end of the experiment at t=20 seconds. After several trials, the model learns to associate the stimulus with the reward, just as the dog was expecting food after he heard the bell.
 
 
 ### Markdown
