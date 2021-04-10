@@ -9,13 +9,13 @@ This project illustrates the simplified **Integrate and Fire** neuron model, whi
 This project contains two different **Ring Network Models**, one which takes the connections between neurons into account and a simplified version which does not. Ring networks are used to model a group of neurons in the visual cortex, which have disctinct preferred edge orientations to which they respond to with a maximal firing rate.
 
 ### [Bienenstock Cooper Munro (BCM) Learning Rule](https://github.com/Ilsa07/BCM-Learning-Rule)
-The **BCM Learning Rule** explain how learning works on the neuron level. This project illustrates how a neruon becomes selective to only one input stimulus by randomly inputting one of two patterns to the neuron and implementing the rule. The **BCM Learning Rule** implements a sliding threshold simulating synaptic plasticity in the brain.
+The **BCM Learning Rule** explains how learning works on the neuron level. This project illustrates how a neruon becomes selective to only one input stimulus by randomly inputting one of two patterns to the neuron and implementing the rule. The **BCM Learning Rule** implements a sliding threshold simulating synaptic plasticity in the brain.
 
 ### [Spike Timing Dependent Plasticity (STDP)](https://github.com/Ilsa07/Spike-Timing-Dependent-Plasticity)
-This project simulates **STDP**, which is a model of how weights between neurons change depending on the timing of the pre and post-synaptic spikes. In this modedl, if a pre-synaptic spike occurs before a post-synaptic one the weight that connects the two increases, and if it is the other way around it decreases. **STDP** explains how the brain can predict sequences and how we can respond to a sequence of stimuli from the first stimulus in a sequence.
+This project simulates **STDP**, which is a model of how weights between neurons change depending on the timing of the pre and post-synaptic spikes. In this model, if a pre-synaptic spike occurs before a post-synaptic one the weight that connects the two increases, and if it is the other way around it decreases. **STDP** explains how the brain can predict sequences and how we can respond to a sequence of stimuli from the first stimulus in a sequence.
 
 ### [Perceptron](https://github.com/Ilsa07/Perceptron)
-This project illustrates the capeabilities of the **Perceptron**, which can be used for binary classification. A **Perceptron** is only capeable of learning linearly separable datasets, which is illustrated in the project.
+This project illustrates the capabilities of the **Perceptron**, which can be used for binary classification. A **Perceptron** is only capable of learning linearly separable datasets, which is illustrated in the project.
 
 ### [Temporal Difference Learning](https://github.com/Ilsa07/TD-Learning-Conditioning)
 This project recreates the famous Pavlov's Dog Experiment via **Temporal Difference Learning**, which is a classical conditioning example. In each trial a stimulus in the form of a bell is presented at t=5 seconds and a reward, some tasty food, is given at the end of the experiment at t=20 seconds. After several trials, the model learns to associate the stimulus with the reward, just as the dog was expecting food after he heard the bell.
