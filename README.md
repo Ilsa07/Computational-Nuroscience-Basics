@@ -11,8 +11,8 @@ This project illustrates the simplified Integrate and Fire neuron model, which d
 
 
 
-### Bienenstock Cooper Munro (BCM) Learning Rule
-
+### [Bienenstock Cooper Munro (BCM) Learning Rule](https://github.com/Ilsa07/BCM-Learning-Rule)
+The BCM learning rule explain how learning works on the neuron level. This project illustrates how a neruon becomes selective, learns to respond to only one type of stimulus, to input stimulus by randomly inputting one of two patterns to the neuron and implementing the rule. The BCM learning rule implements a sliding threshold simulating synaptic plasticity in the brain.
 
 
 ### [Spike Timing Dependent Plasticity (STDP)](https://github.com/Ilsa07/Spike-Timing-Dependent-Plasticity)
